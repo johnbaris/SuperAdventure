@@ -52,11 +52,11 @@
     <Compile Include="SuperAdventure.Designer.cs">
       <DependentUpon>SuperAdventure.cs</DependentUpon>
     </Compile>
-    <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="SuperAdventure.resx">
       <DependentUpon>SuperAdventure.cs</DependentUpon>
     </EmbeddedResource>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
